@@ -13,8 +13,10 @@ const Hero = () => {
     <section className="w-full min-h-screen border-b border-black">
       <div className="container grid gap-10 lg:grid-cols-3 justify-between items-center">
         <article className="border-b lg:border-none border-black py-8 flex flex-col gap-6">
-          <h1 className="text-4xl font-galorine leading-10">TODAY’S NEWS</h1>
-          <h3 className=" text-xl font-galorine">
+          <h1 className="text-4xl font-galorine leading-10 font-bold">
+            TODAY’S NEWS
+          </h1>
+          <h3 className=" text-xl font-galorine font-medium">
             HEARD IS THE LATEST ETHETH BASED TOKEN RELEASED ON THE ERC 20ERC 20
             NETWORK
           </h3>
