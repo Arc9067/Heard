@@ -1,0 +1,16 @@
+@import url("https://fonts.cdnfonts.com/css/enriqueta");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Galorine;
+  src: url(./assets/fonts/Galorine.ttf) format(ttf);
+}
+
+@layer {
+  * {
+    @apply border-white;
+  }
+}
