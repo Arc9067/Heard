@@ -25,9 +25,8 @@ const Hero = () => {
             heard is a fundamental human need. Throughout history, individuals
             have made transformative changes by simply having their voices
             acknowledged and others listening. Anyone and everyone can make a
-            difference. $HEARD is a 0/0 tax token and without pre-sale,
-            airdrops, team tokens, or tax farming. This project aims to empower
-            the community to be $HEARD and collectively push as one voice.
+            difference. This project aims to empower the community to be $HEARD
+            and collectively push as one voice.
           </p>
           <img alt="" className="w-[15rem] mx-auto" src={Logo} />
         </article>
