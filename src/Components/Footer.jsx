@@ -124,7 +124,7 @@ const Footer = () => {
         </div>
 
         <div className="text-black  font-normal text-center">
-          Copyright © {new Date().getFullYear()} HEARDS. All Rights Reserved.
+          Copyright © {new Date().getFullYear()} HEARD. All Rights Reserved.
         </div>
       </div>
     </footer>

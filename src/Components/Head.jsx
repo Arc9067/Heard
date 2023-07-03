@@ -14,7 +14,7 @@ const Head = () => {
           <div className="w-full justify-center items-center gap-[39px] inline-flex">
             <div className="w-48 h-[0px] border border-black"></div>
             <h1 className="text-black font-galorine font-bold text-5xl md:text-6xl font-bold leading-10">
-              HEARDS
+              HEARD
             </h1>
             <div className="w-48 h-[0px] border border-black"></div>
           </div>{" "}
@@ -78,7 +78,7 @@ const Head = () => {
                 and the youngest Nobel Prize laureate. She was shot by the
                 Taliban in 2012 but survived and continued her advocacy. She
                 founded the Malala Fund to promote education for girls
-                worldwide. $HEAR
+                worldwide. $HEARD
               </p>
             </article>
           </div>

@@ -17,8 +17,7 @@ const Hero = () => {
             TODAY’S NEWS
           </h1>
           <h3 className=" text-xl font-galorine font-medium">
-            HEARD IS THE LATEST ETHETH BASED TOKEN RELEASED ON THE ERC 20ERC 20
-            NETWORK
+            HEARD IS THE LATEST ETH BASED TOKEN RELEASED ON THE ERC 20 NETWORK
           </h3>
           <p className=" font-normal leading-loose">
             I initiated the $HEARD project with the understanding that being
