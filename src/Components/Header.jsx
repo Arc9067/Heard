@@ -1,5 +1,6 @@
 import React from "react";
 import HeaderLogo from "../assets/header-logo.png";
+import HeaderImg from "../assets/headerimg.png";
 
 const Header = () => {
   function getCurrentDateFormatted() {
@@ -22,15 +23,18 @@ const Header = () => {
   }
   return (
     <header className="pt-3 w-full">
-      <nav className="container ">
-        <div className="w-ful border-y py-3 gap-5 border-white flex justify-center flex-col lg:flex-row items-center lg:items-start">
+      <a href="">
+        <img src={HeaderImg} alt="" className="w-full" />
+      </a>
+      {/* <nav className="container ">
+        <div className="w-ful border-y py-3 gap-5 border-black flex justify-center flex-col lg:flex-row items-center lg:items-start">
           <img src={HeaderLogo} alt="" className="lg:order-2" />
           <div className="flex flex-col b-red-500 w-full justify-center lg:gap-4 items-center gap-3">
             <a href="" className=" text-5xl md:text-6xl font-galorine">
               HEARD
             </a>
             <div className="w-full h-[47px] pt-[7px] pb-[13px] bg-zinc-600 justify-center items-center inline-flex">
-              <div className="text-white font-medium">
+              <div className="text-black font-medium">
                 WE ALL WANT TO BE $HEARD
               </div>
             </div>
@@ -39,11 +43,8 @@ const Header = () => {
               <p className=" text-xl font-medium">$2,500</p>
             </div>
           </div>
-          {/* <a href="">
-            <img src={HeaderLogo} alt="" className="w-[2rem] md:w-max" />
-          </a> */}
         </div>
-      </nav>
+      </nav> */}
     </header>
   );
 };

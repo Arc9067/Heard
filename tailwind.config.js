@@ -16,7 +16,7 @@ export default {
     extend: {
       colors: {},
       fontFamily: {
-        galorine: ["Galorine", "serif"],
+        galorine: ["DM Serif Display", "serif"],
         serif: ["Enriqueta", "sans-serif"],
       },
     },
