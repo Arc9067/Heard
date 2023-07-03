@@ -13,7 +13,7 @@ const Head = () => {
         <div className=" w-full gap-6 flex flex-col justify-center items-center">
           <div className="w-full justify-center items-center gap-[39px] inline-flex">
             <div className="w-48 h-[0px] border border-black"></div>
-            <h1 className="text-black font-galorine text-4xl md:text-6xl font-normal leading-10">
+            <h1 className="text-black font-galorine font-bold text-5xl md:text-6xl font-bold leading-10">
               HEARDS
             </h1>
             <div className="w-48 h-[0px] border border-black"></div>
@@ -30,7 +30,7 @@ const Head = () => {
                 through nonviolent resistance, promoted social equality, and
                 inspired peaceful movements worldwide.
               </p>
-              <h3 className=" text-black text-2xl mt-6 font-galorine leading-10">
+              <h3 className=" text-black text-3xl mt-6 font-galorine leading-10 font-bold">
                 Read up on few individuals, both from the past and present,
                 whose voices were heard and had a significant impact.
               </h3>
