@@ -3,6 +3,8 @@ import Header from "./Components/Header";
 import Hero from "./Components/Hero";
 import Head from "./Components/Head";
 import Footer from "./Components/Footer";
+import Mics from "./Components/Mics";
+import Roadmap from "./Components/Roadmap";
 
 const App = () => {
   useEffect(() => {
@@ -15,6 +17,8 @@ const App = () => {
       <Header />
       <Hero />
       <Head />
+      <Mics />
+      <Roadmap />
       <Footer />
     </div>
   );
