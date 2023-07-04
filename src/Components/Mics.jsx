@@ -16,7 +16,7 @@ const Mics = () => {
           <img src={mics} alt="" className="lg:w-9/12" />
           <article className="flex flex-col gap-6">
             <h2 className="text-2xl md:text-4xl">
-              lIQUIDITY POOL SUPPLY <span className="font-bold"> 85%</span>
+              LIQUIDITY POOL SUPPLY <span className="font-bold"> 85%</span>
             </h2>
             <h2 className="text-2xl md:text-4xl">
               MARKETING <span className="font-bold"> 10%</span>
